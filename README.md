@@ -14,6 +14,7 @@ You are allowed to code in any language.
 ## Contributing
 
 - While submiting your solution make sure that it runs all the test cases listed in the issue.
+- Name of the file should same as the issue title.
 - Your solution should contain the problem statement as comments. Eg
  ``` 
 /*Problem Statement goes here*/
