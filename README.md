@@ -1,7 +1,7 @@
 # Solve-It
 
 ## Description
-Solve the problems listed in issues section. You can sort them according to difficulty level by seeing appropriate label.
+Solve the DSA problems listed in issues section. You can sort them according to difficulty level by seeing appropriate label.
 <br>
 You are allowed to code in any language.
 
