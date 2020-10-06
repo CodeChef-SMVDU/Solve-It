@@ -31,7 +31,7 @@ def findLongestRepeatingSubSeq( str):
 
 # Driver Program 
 if __name__=='__main__':
-	str = "ATTCGGGA"
+	str = input()
 	print("The length of the largest subsequence that repeats itself is : "
 		,findLongestRepeatingSubSeq(str))
 
